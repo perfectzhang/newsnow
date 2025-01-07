@@ -1,0 +1,8 @@
+name = "newsnow"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2025-01-07"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+database_name = "hixtx-news"
+database_id = "842f0f5e-5046-4238-a809-dd90e78df6e4"
