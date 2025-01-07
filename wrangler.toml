@@ -5,5 +5,5 @@ type = "javascript"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "hixtx-news"
-database_id = "842f0f5e-5046-4238-a809-dd90e78df6e4"
+database_name = "newsnow_db"
+database_id = "07ba3998-602b-4110-8607-e62f1148826a"
