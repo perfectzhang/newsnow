@@ -1,7 +1,7 @@
 name = "newsnow"
 type = "javascript"
-#pages_build_output_dir = "dist/output/public"
-#compatibility_date = "2025-01-07"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2025-01-07"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
